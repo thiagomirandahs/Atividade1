@@ -1,0 +1,30 @@
+.Corpo{
+    width: 600px;
+    height: 600px;
+    background-image: url(https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/379826186_810003744458738_1251065661804985728_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_ohc=CG6yy5rOEnMAX-qD1hs&_nc_ht=scontent-for1-1.xx&oh=00_AfCUC4Uf79SzslUxz6cSXTG-qLGgBso-Hw4DL-bCC5idEQ&oe=65E542F2);
+    background-size: cover;
+    border: 10px;
+    border-radius: 15px ;
+    padding: 20px;
+    
+
+}
+.Branca{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    padding: 10px;
+    
+
+}
+.Preto{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    top: -272px;
+    left: 290px;
+    position: relative;
+}

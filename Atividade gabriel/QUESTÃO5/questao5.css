@@ -1,0 +1,27 @@
+ 
+ .lista {
+    padding: 10px;
+    margin: 10px;
+    list-style-type: none;
+}
+
+
+.lista li {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+
+.lista li:first-child {
+    background-color: #e0e0e0;
+    color: blue;
+}
+
+
+.lista li:last-child {
+    background-color: #dcdcdc;
+    border: none;
+}

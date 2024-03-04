@@ -1,0 +1,35 @@
+
+    
+form {
+        width: 300px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq92QrxbT7wvebp23xHOadMI7lavrDRB3r2aPecYETyg&s');
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        
+    }
+
+input[type="text"],
+input[type="password"],
+button[type="submit"] {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        text-align: center;
+        
+    }
+
+button[type="submit"] {
+        background-color: #1027f1;
+        color: white;
+        cursor: pointer;
+    }

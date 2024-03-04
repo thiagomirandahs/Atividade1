@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+
+tr:first-child {
+    background-color: #f0f0f0;
+    color: blue;
+}
+
+td:last-child {
+    background-color: #e0e0e0;
+}
